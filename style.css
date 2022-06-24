@@ -1,0 +1,30 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    font-family: 'Outfit', sans-serif;
+}
+.container{
+    background-color: white;
+    width: 300px;
+    height: 510px;
+    margin: auto;
+    padding: 15px;
+    border-radius: 10px;
+}
+.container .img{
+    background-image: url(images/image-qr-code.png);
+    background-size: cover;
+    height: 300px;
+    border-radius: 10px;
+}
+.container h2{
+    color: hsl(218, 44%, 22%);
+    text-align: center;
+    padding: 10px;
+    margin: 0;
+}
+.container p{
+    color: hsl(220, 15%, 55%);
+    font-size: 15px;
+    text-align: center;
+    padding: 15px;
+}
